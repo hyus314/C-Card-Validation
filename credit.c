@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include "cs50.h"
+#include <cs50.h>
 
 long get_card_number(void);
 string get_card_validity(long);
